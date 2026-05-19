@@ -6,7 +6,7 @@
 🎓 **Education**
 - MSc in Linguistics — Shiraz University (GPA: 3.6 out of 4)
 - BSc in Linguistics — Shiraz University
-(GPA: 3.5 iut of 4)
+(GPA: 3.5 out of 4)
 
 📜 **Certifications**
 - TOEFL — Score: 94
