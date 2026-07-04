@@ -102,3 +102,6 @@ I build end-to-end NLP systems for Persian & English and I publish everything, i
 - Low-resource Language Processing
 - Neural Machine Translation
 - Transformer Models for Persian
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirhossein-andalib&show_icons=true&theme=default&hide_border=true)
