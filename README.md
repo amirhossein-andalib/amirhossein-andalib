@@ -11,7 +11,7 @@ I build end-to-end NLP systems for Persian & English and I publish everything, i
 
 🔭 **Currently working on:** Persian NLP tooling — preprocessing, sentiment analysis, NER, machine translation, and transformer fine-tuning (ParsBERT)
 
-🎓 **Background:** M.A. Linguistics (Shiraz University) · Ph.D. coursework completed (ABD) · Teaching Persian linguistics since 2017
+🎓 **Background:** M.A. Linguistics (Shiraz University) · Ph.D. coursework completed (ABD) · 
 
 📫 **Reach me:** andalib.amirhossein@gmail.com · [LinkedIn](https://linkedin.com/in/amirhossein-andalib)
 
